@@ -1,4 +1,4 @@
-## Soy Gabriel Tadini - Lic. en Administración UNMdP
+## Soy Gabriel Tadini - L.A. UNMdP
 
 ### Mis intereses como desarrollador
 - Web3: Estoy interesado con el desarrollo de contratos inteligentes, la arquitectura de dApps y el ecosistema de DeFi.
@@ -11,5 +11,6 @@
 - Desarrollar una dApp que combine mis conocimientos en administración y tecnología, por ejemplo, una herramienta para la gestión de activos en cadena.
 - Mi objetivo es contribuir a la implementación de contratos inteligentes para optimizar procesos en mi tarea diaria como Director de Tesorería de la UNMdP, buscando mayor transparencia y eficiencia en la gestión de fondos.
 
+### Contacto
 * https://ar.linkedin.com/in/gabriel-tadini-a537bab4
 * gabrieltadini9@gmail.com 
