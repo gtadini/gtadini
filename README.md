@@ -1,10 +1,11 @@
-## Soy Gabriel Tadini Lic. en Administración
+## Soy Gabriel Tadini - Lic. en Administración UNMdP
 
 ### Mis intereses como desarrollador
 Web3: Estoy interesado con el desarrollo de contratos inteligentes, la arquitectura de dApps y el ecosistema de DeFi.
 Lenguajes de programación: Me enfoco en aprender Solidity y JavaScript.
 
 ### Mis metas en Web3
-Completar el curso de EDP con éxito.
+Dominar las herramientas y el flujo de trabajo de desarrollo de Ethereum, desde la creación de contratos con Hardhat hasta su despliegue en la blockchain..
 Convertirme en un desarrollador profesional de contratos inteligentes.
 Contribuir al código abierto en el ecosistema de Ethereum.
+Desarrollar una dApp que combine mis conocimientos en administración y tecnología, por ejemplo, una herramienta para la gestión de activos en cadena.
