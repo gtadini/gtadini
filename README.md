@@ -1,4 +1,4 @@
-## Soy Gabriel Tadini - L.A. UNMdP
+## Gabriel Tadini - L.A. UNMdP
 
 ### Mis intereses como desarrollador
 - Web3: Estoy interesado con el desarrollo de contratos inteligentes, la arquitectura de dApps y el ecosistema de DeFi.
